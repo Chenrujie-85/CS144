@@ -1,0 +1,10 @@
+t_webget 4 1.03286
+t_byte_stream_construction 2 0.00105286
+t_byte_stream_one_write 1 0.00160193
+t_byte_stream_two_writes 1 0.00199971
+t_byte_stream_capacity 1 0.750738
+t_byte_stream_many_writes 1 0.00513706
+t_address_dt 3 0.0110635
+t_parser_dt 3 0.000542993
+t_socket_dt 3 0.00127335
+---
