@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nagomi/CS144/sponge/libsponge/byte_stream.hh
+string
+-
+deque
+-
+
+/home/nagomi/CS144/sponge/libsponge/stream_reassembler.cc
+stream_reassembler.hh
+/home/nagomi/CS144/sponge/libsponge/stream_reassembler.hh
+
+/home/nagomi/CS144/sponge/libsponge/stream_reassembler.hh
+byte_stream.hh
+/home/nagomi/CS144/sponge/libsponge/byte_stream.hh
+cstdint
+-
+string
+-
+set
+-
+
